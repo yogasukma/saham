@@ -8,7 +8,7 @@
       <h2 class="text-xl font-semibold mb-3 text-amber-700">Disclaimer</h2>
       <p class="text-gray-700 text-sm italic leading-relaxed disclaimer-text">
         Informasi yang ada pada halaman ini bukan merupakan edukasi apalagi ajakan membeli saham, 
-        hanya persentasi sederhana dari portfolio pribadi yang merupakan retail kecil dan iseng 
+        hanya presentasi sederhana dengan tujuan hiburan berdasarkan portfolio pribadi yang merupakan retail kecil dan iseng 
         tanpa background keuangan ;) 
       </p>
     <a href="https://yogasukma.web.id" target="_blank" class="inline-block mt-4 px-4 py-2 bg-amber-500 text-white text-xs rounded hover:bg-blue-600 transition-colors">kenalan lebih jauh dengan saya</a>
