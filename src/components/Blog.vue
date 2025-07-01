@@ -54,8 +54,12 @@ onMounted(async () => {
       <p class="text-gray-500">Loading latest post...</p>
     </div>
     
-    <div v-else-if="error" class="bg-white p-4 rounded-md border border-gray-300 shadow-sm">
-      <p class="text-red-500">Error loading blog post: {{ error }}</p>
+    <div v-else-if="error" class="bg-white p-6 rounded-md border border-gray-300 shadow-sm text-center">
+      <h3 class="text-lg font-semibold text-red-600 mb-3">Failed to load posts</h3>
+      <a href="https://yogasukma.web.id/c/ekuitas/" target="_blank" rel="noopener noreferrer"
+         class="inline-block px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors">
+        Go to Blog post directly
+      </a>
     </div>
     
     <div v-else-if="latestPost" class="bg-white p-6 rounded-md border border-gray-300 shadow-sm">
