@@ -28,7 +28,7 @@ onMounted(async () => {
 <template>
   <main>
     <div class="w-[70%] md:w-2/5 mx-auto my-10">
-      <div style="margin: 50px auto 100px; width: 600px;">
+      <div style="margin: 50px auto 100px; max-width: 600px;">
         <h1 class="text-center m-0 p-0">Equity Dashboard</h1>
         <p class="text-center text-gray-600">My personal dashboard showing my holdings, profits (or losses), and investing activity.</p>
       </div>
